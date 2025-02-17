@@ -6,6 +6,10 @@ NetCaptchaQ - Prevent Bots In Your Game
 
 *I know some of you might be tired of bots joining your game and ruining the experience, whether it's disrupting gameplay or mostly farming. Well, I've created something that might help! While it could be a bit advanced, I haven’t tested it in a game full of bots yet, so... we’ll see how it goes!*
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SincerelyTamim/NetCaptchaQ/5d7a1aae462b8964e3bc30d6ece0c5e78c479b5d/NetCaptchaQLogo.png" alt="NetCaptchaQ - Txmim" width="500">
+</p>
+
 # Download Package - [NetCaptchaQ_BETA.rbxm](https://github.com/SincerelyTamim/NetCaptchaQ/blob/main/NetCaptchaQ_BETA.rbxm)
 
 # **Introducing NetCaptchaQ BETA**
