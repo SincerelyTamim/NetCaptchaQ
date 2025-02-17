@@ -42,5 +42,5 @@ Also you can support me by following me on Roblox! 👍
 
 ## License
 
-NetCaptchaQ is licensed under the [MIT License](https://github.com/SincerelyTamim/NetCaptchaQ/blob/main/LISCENSE).
+NetCaptchaQ is licensed under the [MIT License](https://github.com/SincerelyTamim/NetCaptchaQ/blob/main/LICENSE).
 
