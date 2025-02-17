@@ -6,6 +6,7 @@ NetCaptchaQ - Prevent Bots In Your Game
 
 *I know some of you might be tired of bots joining your game and ruining the experience, whether it's disrupting gameplay or mostly farming. Well, I've created something that might help! While it could be a bit advanced, I haven’t tested it in a game full of bots yet, so... we’ll see how it goes!*
 
+# Download Package - [NetCaptchaQ_BETA.rbxm](https://github.com/SincerelyTamim/NetCaptchaQ/blob/main/NetCaptchaQ_BETA.rbxm)
 
 # **Introducing NetCaptchaQ BETA**
 
@@ -33,3 +34,4 @@ Please consider reading "READ_ME" inside the Package for more Information!
 ### Thank you!
 Also you can support me by following me on Roblox! 👍
 > [Roblox Account](https://www.roblox.com/users/1647737309/profile)"
+
