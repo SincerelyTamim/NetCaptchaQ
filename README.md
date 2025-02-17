@@ -39,3 +39,8 @@ Please consider reading "READ_ME" inside the Package for more Information!
 Also you can support me by following me on Roblox! 👍
 > [Roblox Account](https://www.roblox.com/users/1647737309/profile)"
 
+
+## License
+
+NetCaptchaQ is licensed under the [MIT License](https://github.com/SincerelyTamim/NetCaptchaQ/blob/main/LISCENSE).
+
